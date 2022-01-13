@@ -1,0 +1,43 @@
+  [
+    {
+      "id":0,
+      "question": "Quanti pianeti ci sono nel sistema solare?",
+      "answers": ["7","8","9","10"],
+      "correct": 2 
+    },
+    { "id":1,
+      "question": "Quanti denti ha un essere umano adulto?",
+      "answers": ["28","30","32","34"],
+      "correct": 2 
+
+      }
+    ,
+    { "id":2,
+      "question": "Quale e' il nome di un famoso esploratore?",
+      "answers": ["Vespucci","Machiavelli","Da Vinci","Galileo"],
+      "correct": 0 
+
+      }
+    ,
+    { "id":3,
+      "question": "Quando e' caduta Roma in mano ai Barbari?",
+      "answers": ["214dC","612dC","22aC","476dC"],
+      "correct": 3
+
+      }
+    ,
+    { "id":4,
+      "question": "Quale fra questi e' uno strumento per programmare?",
+      "answers": ["VPN","Word","PowerPoint","HTML"],
+      "correct": 3 
+
+      }
+    ,
+    { "id":5,
+      "question": "Quanti erano i re di Roma?",
+      "answers": ["7","5","13","3"],
+      "correct": 0 
+      
+    }
+  ]
+
